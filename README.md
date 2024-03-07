@@ -1,4 +1,4 @@
-• Unity C#
+• Unity C# (Intermediate)
 • Python (Basic)
 • HTML & CSS (Basic)
 
