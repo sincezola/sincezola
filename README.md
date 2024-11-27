@@ -1,7 +1,6 @@
-• Unity C#
-• Python
-• HTML, CSS
-• React, Express, SQL, TypeScript & Tailwind CSS
+• FullStack Developer
 
-Studing FullStack WebDev <3 
+• Knowledge in various technologies
+
 Making Stuff's and Programming for love.
+Working on WebDev.
