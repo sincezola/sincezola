@@ -1,7 +1,5 @@
 # 🌟 Hello! I am Enzo Zamberlan 🌟
 
-<img align="right" src="https://github.com/sincezola/sincezola/raw/main/assets/image.png" width="200"/>
-
 👨‍💻 **About Me**  
 - 💻 Fullstack Developer.  
 - 🎯 Focused on [ Frontend & Backend Applications With TypeScript ].  
