@@ -30,7 +30,3 @@
 
 📫 **Contact**  
 - **Email**: [sincecontatodev@gmail.com](mailto:sincecontatodev@gmail.com)
-
----
-
-![Since GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=sincezola&theme=radical)
