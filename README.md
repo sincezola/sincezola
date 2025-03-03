@@ -1,7 +1,7 @@
 # 🌟 Hello! I am Enzo Zamberlan 🌟
 
 ## 👨‍💻 About Me  
-- 💻 Fullstack Developer  
+- 💻 Fullstack Developer (More Backend)
 - 🎯 Focused on [Backend & Frontend Applications with TypeScript].  
 - 📚 Currently learning [NestJS, Express, TypeScript].  
 - 🌍 Languages: English & Portuguese  
