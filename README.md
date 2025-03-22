@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me  
 - 💻 Fullstack Developer (More Backend)
 - 🎯 Focused on [Backend & Frontend Applications with TypeScript].  
-- 📚 Currently learning [NestJS, Express, TypeScript].  
+- 📚 Currently learning [NestJS, Jest, TypeScript].  
 - 🌍 Languages: English & Portuguese  
 
 ---
