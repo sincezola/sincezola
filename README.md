@@ -1,9 +1,9 @@
 # 🌟 Hello! I am Enzo Zamberlan 🌟
 
 ## 👨‍💻 About Me  
-- 💻 Fullstack Developer (More Backend)
-- 🎯 Focused on [Backend & Frontend Applications with TypeScript].  
-- 📚 Currently learning [NestJS, Jest, TypeScript].  
+- 💻 Backend Developer
+- 🎯 Focused on [Backend Applications with TypeScript].  
+- ⚙️ Stack: [ NestJS, Jest, Typescript, Express, PrismaJs, SQL]
 - 🌍 Languages: English & Portuguese  
 
 ---
@@ -13,7 +13,6 @@
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: nowrap;">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma">
