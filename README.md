@@ -8,7 +8,7 @@
 
 ---
 
-## ⚙️ These are the frameworks and tools I frequently use:
+## ⚙️ Frameworks and tools I frequently use:
 
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: nowrap;">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
