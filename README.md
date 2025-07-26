@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me  
 - 💻 Backend Developer
 - 🎯 Focused on [Backend Applications with TypeScript].  
-- ⚙️ Stack: [ NestJS, Jest, Typescript, Express, PrismaJs, SQL]
+- ⚙️ Stack: [ NestJS, Jest, Typescript, Express, PrismaJs, SQL, Nginx, Docker ]
 - 🌍 Languages: English & Portuguese  
 
 ---
