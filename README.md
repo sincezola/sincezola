@@ -1,4 +1,4 @@
-# 🌟 Hello! I am Enzo Zamberlan 🌟
+# 🌙 Hello! I am Enzo Zamberlan
 
 ## 👨‍💻 About Me  
 - 💻 Backend Developer
@@ -8,7 +8,7 @@
 
 ---
 
-## ⚙️ Frameworks and tools I frequently use:
+## ⚙️ Frameworks & tools I frequently use:
 
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: nowrap;">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
