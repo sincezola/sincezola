@@ -22,13 +22,5 @@
 
 ---
 
-## 🚀 GitHub Stats  
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sincezola&show_icons=true&theme=radical"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sincezola&layout=compact&theme=radical"/>
-</div>
-
----
-
 ## 📫 Contact  
 **Email**: [sincecontatodev@gmail.com](mailto:sincecontatodev@gmail.com)
