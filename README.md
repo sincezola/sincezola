@@ -1,7 +1,7 @@
-# 🌙 Hello! I am Enzo Zamberlan
+# Hello! I am Enzo Zamberlan
 
 ## 👨‍💻 About Me  
-- 💻 Backend Developer
+- 💻 Brazilian Backend Developer
 - 🎯 Focused on [Backend Applications with TypeScript].  
 - ⚙️ Stack: [ NestJS, Jest, Typescript, Express, PrismaJs, SQL, Nginx, Docker, RabbitMQ ]
 - 🌍 Languages: English & Portuguese  
